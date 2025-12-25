@@ -1,0 +1,13 @@
+{{- $username := .Get 0 -}}
+{{- $id := .Get 1 | default "" -}}
+{{- if $id -}}
+    <blockquote class="twitter-tweet" data-conversation="none">
+        <p lang="en" dir="ltr">
+            <a href="https://twitter.com/{{ $username }}/status/{{ $id }}"></a>
+        </p>
+    </blockquote>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{- else -}}
+    <a href="https://twitter.com/{{ $username }}">@{{ $username }}</a>
+{{- end -}}
+
