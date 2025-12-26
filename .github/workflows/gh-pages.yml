@@ -19,15 +19,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          submodules: true
+          submodules: recursive
           fetch-depth: 0
-      
-      - name: Initialize submodules
-        run: |
-          git submodule update --init --recursive
       
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -35,13 +31,19 @@ jobs:
           hugo-version: '0.128.0'
           extended: true
       
+      - name: Verify submodules
+        run: |
+          ls -la themes/
+          ls -la themes/LoveIt/ || echo "LoveIt theme not found"
+      
       - name: Build with Hugo
         run: |
           hugo version
-          hugo \
-            --gc \
-            --minify \
-            --baseURL "https://nguyentranthanhsang0111.github.io/BMTTNC_ThanhSang_2718/"
+          hugo --gc --minify --baseURL "https://nguyentranthanhsang0111.github.io/BMTTNC_ThanhSang_2718/"
+      
+      - name: Check public folder
+        run: |
+          ls -la public/ | head -20
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
