@@ -6,9 +6,9 @@ weight: 6
 categories: ["Java"]
 tags: ["java", "spring boot", "rest api", "web"]
 description: "Học cách tạo RESTful API với Spring Boot framework"
-featuredImage: "/images/bai-6-spring-boot-api.jpg"
-featuredImagePreview: "/images/bai-6-spring-boot-api.jpg"
-images: ["/images/bai-6-spring-boot-api.jpg"]
+featuredImage: "images/bai-6-spring-boot-api.jpg"
+featuredImagePreview: "images/bai-6-spring-boot-api.jpg"
+images: ["images/bai-6-spring-boot-api.jpg"]
 ---
 
 ## Spring Boot là gì?

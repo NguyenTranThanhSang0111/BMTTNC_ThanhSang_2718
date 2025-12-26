@@ -6,9 +6,9 @@ weight: 7
 categories: ["Java"]
 tags: ["java", "rest", "api", "best practices"]
 description: "Tìm hiểu các nguyên tắc và best practices khi thiết kế RESTful API"
-featuredImage: "/images/bai-7-restful-api.jpg"
-featuredImagePreview: "/images/bai-7-restful-api.jpg"
-images: ["/images/bai-7-restful-api.jpg"]
+featuredImage: "images/bai-7-restful-api.jpg"
+featuredImagePreview: "images/bai-7-restful-api.jpg"
+images: ["images/bai-7-restful-api.jpg"]
 ---
 
 ## REST là gì?

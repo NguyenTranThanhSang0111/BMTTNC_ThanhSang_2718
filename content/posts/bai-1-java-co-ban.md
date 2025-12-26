@@ -6,9 +6,9 @@ weight: 1
 categories: ["Java"]
 tags: ["java", "cơ bản"]
 description: "Tổng quan về ngôn ngữ Java và ứng dụng trong lập trình mạng"
-featuredImage: "/images/bai-1-java-co-ban.jpg"
-featuredImagePreview: "/images/bai-1-java-co-ban.jpg"
-images: ["/images/bai-1-java-co-ban.jpg"]
+featuredImage: "images/bai-1-java-co-ban.jpg"
+featuredImagePreview: "images/bai-1-java-co-ban.jpg"
+images: ["images/bai-1-java-co-ban.jpg"]
 ---
 
 ## Tại sao chọn Java?

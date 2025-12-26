@@ -6,9 +6,9 @@ weight: 2
 categories: ["Java"]
 tags: ["java", "socket", "lập trình mạng"]
 description: "Tìm hiểu về Socket và cách sử dụng trong Java để giao tiếp qua mạng"
-featuredImage: "/images/bai-2-socket-programming.jpg"
-featuredImagePreview: "/images/bai-2-socket-programming.jpg"
-images: ["/images/bai-2-socket-programming.jpg"]
+featuredImage: "images/bai-2-socket-programming.jpg"
+featuredImagePreview: "images/bai-2-socket-programming.jpg"
+images: ["images/bai-2-socket-programming.jpg"]
 ---
 
 ## Socket là gì?

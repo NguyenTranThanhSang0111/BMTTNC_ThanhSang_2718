@@ -6,9 +6,9 @@ weight: 3
 categories: ["Java"]
 tags: ["java", "tcp", "server", "client"]
 description: "Học cách xây dựng ứng dụng TCP Server/Client hoàn chỉnh với Java"
-featuredImage: "/images/bai-3-tcp-server-client.jpg"
-featuredImagePreview: "/images/bai-3-tcp-server-client.jpg"
-images: ["/images/bai-3-tcp-server-client.jpg"]
+featuredImage: "images/bai-3-tcp-server-client.jpg"
+featuredImagePreview: "images/bai-3-tcp-server-client.jpg"
+images: ["images/bai-3-tcp-server-client.jpg"]
 ---
 
 ## TCP Server/Client Architecture

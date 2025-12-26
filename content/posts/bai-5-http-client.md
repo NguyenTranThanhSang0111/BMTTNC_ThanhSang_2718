@@ -6,9 +6,9 @@ weight: 5
 categories: ["Java"]
 tags: ["java", "http", "client", "api"]
 description: "Học cách sử dụng HTTP Client trong Java để gọi REST API"
-featuredImage: "/images/bai-5-http-client.jpg"
-featuredImagePreview: "/images/bai-5-http-client.jpg"
-images: ["/images/bai-5-http-client.jpg"]
+featuredImage: "images/bai-5-http-client.jpg"
+featuredImagePreview: "images/bai-5-http-client.jpg"
+images: ["images/bai-5-http-client.jpg"]
 ---
 
 ## HTTP Client trong Java

@@ -6,9 +6,9 @@ weight: 9
 categories: ["Java"]
 tags: ["java", "tổng kết", "thực hành", "dự án"]
 description: "Tổng kết kiến thức và hướng dẫn xây dựng dự án thực hành hoàn chỉnh"
-featuredImage: "/images/bai-9-tong-ket-thuc-hanh.jpg"
-featuredImagePreview: "/images/bai-9-tong-ket-thuc-hanh.jpg"
-images: ["/images/bai-9-tong-ket-thuc-hanh.jpg"]
+featuredImage: "images/bai-9-tong-ket-thuc-hanh.jpg"
+featuredImagePreview: "images/bai-9-tong-ket-thuc-hanh.jpg"
+images: ["images/bai-9-tong-ket-thuc-hanh.jpg"]
 ---
 
 ## Tổng kết kiến thức

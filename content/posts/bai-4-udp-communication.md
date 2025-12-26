@@ -6,9 +6,9 @@ weight: 4
 categories: ["Java"]
 tags: ["java", "udp", "datagram"]
 description: "Tìm hiểu về UDP và cách sử dụng DatagramSocket trong Java"
-featuredImage: "/images/bai-4-udp-communication.jpg"
-featuredImagePreview: "/images/bai-4-udp-communication.jpg"
-images: ["/images/bai-4-udp-communication.jpg"]
+featuredImage: "images/bai-4-udp-communication.jpg"
+featuredImagePreview: "images/bai-4-udp-communication.jpg"
+images: ["images/bai-4-udp-communication.jpg"]
 ---
 
 ## UDP vs TCP

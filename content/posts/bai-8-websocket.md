@@ -6,9 +6,9 @@ weight: 8
 categories: ["Java"]
 tags: ["java", "websocket", "real-time", "spring"]
 description: "Học cách sử dụng WebSocket để xây dựng ứng dụng real-time với Spring"
-featuredImage: "/images/bai-8-websocket.jpg"
-featuredImagePreview: "/images/bai-8-websocket.jpg"
-images: ["/images/bai-8-websocket.jpg"]
+featuredImage: "images/bai-8-websocket.jpg"
+featuredImagePreview: "images/bai-8-websocket.jpg"
+images: ["images/bai-8-websocket.jpg"]
 ---
 
 ## WebSocket là gì?
